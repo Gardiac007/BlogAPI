@@ -9,3 +9,5 @@ This Blog API is created with Django REST Framework
 
 > [!IMPORTANT]
 > **It has JWT authentication so use Postman to test the API.**
+
+### Endpoints
