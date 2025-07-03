@@ -10,4 +10,5 @@ This Blog API is created with Django REST Framework
 > [!IMPORTANT]
 > **It has JWT authentication so use Postman to test the API.**
 
-### **Endpoints:**
+### **Endpoints(In this project):**
+- To access the Django Administration page: ``` http://127.0.0.1:8000/admin/ ```
