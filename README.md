@@ -2,7 +2,7 @@
 This Blog API is created with Django REST Framework
 
 > [!NOTE]
-> **This API uses MySQLClient Database which is used in Production Environment.**
+> **This API uses MySQLClient Database which is used in Production Environment.  Run the MySQL server before running the Django server.**
 
 > [!TIP]
 > **If it doesn't work, you can use the the in-built SQLite3 Database from the Django Framework.**
@@ -14,6 +14,7 @@ This Blog API is created with Django REST Framework
 - To access the Django Administration page: ``` http://127.0.0.1:8000/admin/ ```
 - To get all the Posts in the Blog API: ``` http://127.0.0.1:8000/api/post/ ```
 - To retrieve specific Post with its id: ``` http://127.0.0.1:8000/api/post/<id>/ ```
+
 
 - Go to the HTML Login Page: ``` http://127.0.0.1:8000/api/login/ ```
 - To Register an user: ``` http://127.0.0.1:8000/auth/register/ ```
