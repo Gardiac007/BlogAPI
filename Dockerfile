@@ -32,4 +32,4 @@ RUN chmod +x /app/startup.sh
 EXPOSE 8000
 
 # Run the application
-CMD ["/app/startup.sh"]
+CMD ["/startup.sh"]
